@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: RC99
+email: ryan.a.13cooper@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Right now I mostly am using this site to chart my personal development, but feel free to contact me if anything mentioned here catches your eye.  
+  
+  I am currently surveying economics and finance to develop a foundation and find out what interests me in those fields, improving my critical reading and writing through a series of essays to become a better writer and a more organized thinker, and solidifying my math foundations with an algebra textbook.  
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: rcooper47
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +61,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ryan Cooper"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : My name is Ryan Cooper, and I am a 3rd year Georgia Tech Industrial Engineering Student.  
+  #"My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
